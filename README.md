@@ -8,7 +8,7 @@ Setup:
 
 **1. Install PredictionIO**
 
-an installation guid can be found here: http://docs.prediction.io/current/installation/index.html
+an installation guide can be found here: http://docs.prediction.io/current/installation/index.html
 
 **2. Download orp-predictionio
 `https://github.com/KukumavMozolo/orp-predictionio.git`<br>
