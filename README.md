@@ -34,3 +34,4 @@ and copy:
 `cd vendor`<br>
 `git clone https://github.com/plista/orp-sdk-php.git`<br>
 
+**7. Add new Recommender engines using the PredictionIO webinterface**
